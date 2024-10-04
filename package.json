@@ -90,6 +90,7 @@
     "jest": "^27.5.1",
     "jest-axe": "^6.0.0",
     "jest-watch-typeahead": "^1.1.0",
+    "jest-environment-jsdom": "^27.5.1",      # Add this line
     "node-notifier": "^10.0.1",
     "p-limit": "^4.0.0",
     "postcss": "^8.4.13",
